@@ -13,6 +13,7 @@
 		250527E726D2461200DFC56A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 250527E526D2461200DFC56A /* Main.storyboard */; };
 		250527E926D2461800DFC56A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 250527E826D2461800DFC56A /* Assets.xcassets */; };
 		250527EC26D2461800DFC56A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 250527EA26D2461800DFC56A /* LaunchScreen.storyboard */; };
+		250527F426D252C200DFC56A /* listTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250527F326D252C200DFC56A /* listTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		250527E826D2461800DFC56A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		250527EB26D2461800DFC56A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		250527ED26D2461800DFC56A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		250527F326D252C200DFC56A /* listTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				250527E126D2461200DFC56A /* SceneDelegate.swift */,
 				250527E326D2461200DFC56A /* ViewController.swift */,
 				250527E526D2461200DFC56A /* Main.storyboard */,
+				250527F326D252C200DFC56A /* listTableViewController.swift */,
 				250527E826D2461800DFC56A /* Assets.xcassets */,
 				250527EA26D2461800DFC56A /* LaunchScreen.storyboard */,
 				250527ED26D2461800DFC56A /* Info.plist */,
@@ -140,6 +143,7 @@
 				250527E426D2461200DFC56A /* ViewController.swift in Sources */,
 				250527E026D2461200DFC56A /* AppDelegate.swift in Sources */,
 				250527E226D2461200DFC56A /* SceneDelegate.swift in Sources */,
+				250527F426D252C200DFC56A /* listTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
